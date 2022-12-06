@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(230, 255, 193);
+    color: rgb(0, 85, 0);
+    font-size: 25px;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+td{
+    text-align: center;
+    border: solid 2px;
+}
+h2{
+    font-size: 20px;
+}
+li{
+    text-align: center;
+}

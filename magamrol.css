@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+}
+body{
+    background-color: rgb(230, 255, 193);
+    color: rgb(0, 85, 0);
+}
+h2{
+    font-size: 20px;
+    text-align: left;
+}
+td{
+    border: solid 2px;
+    height: 40px;
+    font-size: 20px;
+    background-color: white;
+}
+.elso{
+    background-color: white;
+    height: 35px;
+    font-size: 25px;;
+}
+th{
+    border: solid 2px;
+    background-color: lightgray;
+}
+.nap{
+    background-color: lightgray;
+}
